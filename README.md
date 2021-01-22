@@ -1,0 +1,2 @@
+# platform
+com.erick.platform
